@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Abhishek Mishra 👋
 
-<!--
-**Abhishek9782/Abhishek9782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught **MERN Stack Developer** from Jaipur 🇮🇳  
+I love turning ideas into full-stack web applications using:
 
-Here are some ideas to get you started:
+- 🛠️ React.js, Redux Toolkit  
+- 🖥️ Node.js, Express.js  
+- 💾 MongoDB, Redis  
+- 🔐 JWT, API Security  
+- ✍️ TypeScript, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Projects
+- **Lakhdatar Restaurant** – React + Redux + Node.js E-commerce Food App  
+- **Fit India** – Static fitness site using HTML & CSS  
+- **Lotteria** – Lottery platform (internship project) with full-stack features
+
+### 💼 Open to Work
+Looking for full-time opportunities or freelance gigs.  
+Let's connect and build something amazing together!
+
+📫 abhishekjpr123@gmail.com  
+🌐 [Portfolio Website](https://abhishek-mishra-mern-stack-developer.netlify.app)  
