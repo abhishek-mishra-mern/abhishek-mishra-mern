@@ -1,22 +1,101 @@
-# Hi, I'm Abhishek Mishra 👋
+# Hi, I'm Abhishek Mishra 👋  
 
-I'm a self-taught **MERN Stack Developer** from Jaipur 🇮🇳  
-I love turning ideas into full-stack web applications using:
+🚀 **MERN Stack Developer** | Passionate about building scalable, secure, and user-friendly web applications  
+📍 Jaipur, India  
 
-- 🛠️ React.js, Redux Toolkit  
-- 🖥️ Node.js, Express.js  
-- 💾 MongoDB, Redis  
-- 🔐 JWT, API Security  
-- ✍️ TypeScript, Postman
+I’m a self-taught full-stack developer focused on writing clean, maintainable code and building real-world applications using modern JavaScript technologies. I enjoy working on backend logic, authentication systems, and performance-oriented frontend experiences.
 
-### 🔥 Projects
-- **Lakhdatar Restaurant** – React + Redux + Node.js E-commerce Food App  
-- **Fit India** – Static fitness site using HTML & CSS  
-- **Lotteria** – Lottery platform (internship project) with full-stack features
+---
 
-### 💼 Open to Work
-Looking for full-time opportunities or freelance gigs.  
-Let's connect and build something amazing together!
+## 🧠 Tech Stack
 
-📫 abhishekjpr123@gmail.com  
-🌐 [Portfolio Website](https://abhishek-mishra-mern-stack-developer.netlify.app)  
+### Frontend
+- React.js  
+- Redux Toolkit  
+- HTML5, CSS3  
+- JavaScript (ES6+)  
+- TypeScript  
+
+### Backend
+- Node.js  
+- Express.js  
+
+### Database & Caching
+- MongoDB  
+- Redis  
+
+### Authentication & Security
+- JWT Authentication  
+- Role-Based Access Control (RBAC)  
+- API Security & Validation  
+
+### Tools & Others
+- Git & GitHub  
+- Postman  
+- REST APIs  
+- VS Code  
+
+---
+
+## 🔥 Featured Projects
+
+### 🍽️ Lakhdatar Restaurant  
+**Tech:** React, Redux Toolkit, Node.js, Express, MongoDB  
+A full-stack food ordering & e-commerce-style application with cart management, authentication, and backend APIs.
+
+✅ User authentication  
+✅ State management using Redux  
+✅ Cart and razorpay(Payment integration)   
+✅ REST API integration  
+✅ Admin, User and Vendor Based role  
+
+---
+
+### 🏋️ Fit India  
+**Tech:** HTML, CSS  
+A clean and responsive static fitness website focused on layout, responsiveness, and UI fundamentals.
+
+---
+
+### 🎯 Lotteria (Internship Project)  
+**Tech:** MERN Stack  
+A full-stack lottery platform built during internship experience.
+
+✅ Backend APIs  
+✅ Authentication  
+✅ Database integration  
+✅ Admin & user features  
+
+---
+
+## 📌 What I’m Currently Working On
+
+- Improving backend architecture & API design  
+- Writing cleaner, scalable project structures  
+- Learning Redis deeper & backend optimization  
+- Improving system design fundamentals
+- learning Next.js and tailwind css 
+
+---
+
+## 🎯 Career Goals
+- Join a growth-focused company as a **MERN Stack Developer**
+- Build scalable real-world products
+- Continuously improve backend & system design skills
+
+---
+
+## 🤝 Open to Opportunities
+I’m actively looking for:
+- Full-time MERN Developer roles  
+- Internship / Junior roles  
+- Freelance projects  
+
+Let’s collaborate and build something impactful 🚀
+
+---
+
+## 📫 Connect With Me
+📧 Email: **abhishekjpr123@gmail.com**  
+🌐 Portfolio: https://abhishek-mishra-mern-stack-developer.netlify.app  
+💼 GitHub: https://github.com/abhishek-mishra-mern
