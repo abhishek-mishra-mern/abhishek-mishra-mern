@@ -96,6 +96,6 @@ Let’s collaborate and build something impactful 🚀
 ---
 
 ## 📫 Connect With Me
-📧 Email: **abhishekjpr123@gmail.com**  
+📧 Email: **dev.mishra.abhishek@gmail.com**  
 🌐 Portfolio: https://abhishek-mishra-mern-stack-developer.netlify.app  
 💼 GitHub: https://github.com/abhishek-mishra-mern
